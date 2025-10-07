@@ -1,0 +1,14 @@
+langchain
+sentence-transformers
+faiss-cpu
+python-dotenv
+pypdf
+python-docx
+transformers
+accelerate
+langchain-community
+langchain-huggingface
+huggingface_hub[hf_xet]
+huggingface_hub
+gradio
+
